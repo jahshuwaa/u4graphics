@@ -1,6 +1,10 @@
 # u4graphics
 ## Tile Graphics
 
+### 2017-04-10
+* chest
+* mimic
+
 ### 2017-04-09
 * ankh
 * gazer
